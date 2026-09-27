@@ -1,0 +1,23 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Juan",
+        "correo": "juan@gmail.com",
+        "nombre_usuario": "juan",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "joel",
+        "correo": "joel@gmail.com",
+        "nombre_usuario": "joel",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "10",
+        "nombre": "Carlos",
+        "correo": "carlos@gmail.com",
+        "nombre_usuario": "carlos",
+        "contrasena": "1234"
+    }
+]
